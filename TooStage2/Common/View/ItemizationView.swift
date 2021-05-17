@@ -33,7 +33,9 @@ struct ItemizationTotalAmountView: View {
             VStack(alignment: .leading, spacing: 5) {
                 Text(text)
                     .itemRes()
-                Text("ここでは予想される値段を表示しています。\n決済は配達完了後、支払料金が確定してから行われます。")
+//                Fixed by Kai
+//                Text("ここでは予想される値段を表示しています。\n決済は配達完了後、支払料金が確定してから行われます。")
+                Text("ここでは予想される金額を表示しています。\n決済は配達完了後、支払料金が確定してから行われます。")
                     .caution1()
             }
             .offset(y: -2)
