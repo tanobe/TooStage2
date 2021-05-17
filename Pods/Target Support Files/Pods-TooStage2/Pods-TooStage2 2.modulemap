@@ -1,0 +1,6 @@
+framework module Pods_TooStage2 {
+  umbrella header "Pods-TooStage2-umbrella.h"
+
+  export *
+  module * { export * }
+}
