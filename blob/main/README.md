@@ -22,7 +22,7 @@
 <ul>
 <li>iPhoneユーザー</li>
 <li>ios14以下は非対応</li>
-<li>高尾に住むドミトリー生</li>
+<li>高尾に住む学生</li>
 </ul>
 <h2 id="appstore">AppStore</h2>
 <p><a href="https://apps.apple.com/jp/app/too/id1552608780?l=en">https://apps.apple.com/jp/app/too/id1552608780?l=en</a></p>
