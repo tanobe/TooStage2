@@ -120,3 +120,9 @@ struct MatchingUndertakeView: View {
     
     }
 }
+
+struct MatchingUndertakeView_Previews: PreviewProvider {
+    static var previews: some View {
+        MatchingUndertakeView()
+    }
+}

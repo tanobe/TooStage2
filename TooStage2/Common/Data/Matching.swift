@@ -2,7 +2,7 @@
 //  Matching.swift
 //  TooStage2
 //
-//  Created by Yuanfan Wang on 2021/03/29.
+//  
 //
 
 import SwiftUI

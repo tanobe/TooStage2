@@ -2,7 +2,7 @@
 //  TutorialView.swift
 //  TooStage2
 //
-//  Created by Yuanfan Wang on 2021/01/27.
+//  
 //
 
 import SwiftUI

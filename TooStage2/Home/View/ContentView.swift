@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  TooStage2
 //
-//  Created by Yuanfan Wang on 2021/01/20.
+// 
 //
 
 import SwiftUI
@@ -190,5 +190,11 @@ struct GradationBackgroundColor: View {
         .frame(maxWidth: .infinity, maxHeight: 102)
         .padding(.top, 22)
         .frame(maxWidth: .infinity, maxHeight: 124)
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
     }
 }

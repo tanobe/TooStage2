@@ -2,7 +2,7 @@
 //  RequestView.swift
 //  TooStage2
 //
-//  Created by Yuanfan Wang on 2021/02/28.
+// 
 //
 
 import SwiftUI
@@ -60,5 +60,11 @@ struct RequestView: View {
         }
         .animation(.easeInOut)
         
+    }
+}
+
+struct RequestView_Previews: PreviewProvider {
+    static var previews: some View {
+        RequestView()
     }
 }
