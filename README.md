@@ -8,6 +8,7 @@
 
 【キャプチャURL】  
 https://drive.google.com/file/d/1SwTFDYRNY566A6GPJI14e4vdOunBdKvA/view?usp=sharing  
+https://www.figma.com/file/IzwSlQBJliT9iXHdTrf41Y/1st-release?node-id=0%3A1
 【使い方ガイド】  
 https://too-toost.studio.site/
 
